@@ -8,5 +8,7 @@ let shadow_num = shadow_num + 5;
 // Declare third variable binding, shadows second binding of variable "shadow_num"
 let shadow_num = shadow_num * 2; 
 
+let mut sebas: i32= 44;
+
 println!("The number is {}.", shadow_num);
 }
